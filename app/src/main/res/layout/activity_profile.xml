@@ -1,0 +1,118 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+			android:layout_width="match_parent"
+			android:orientation="vertical"
+	android:background="@color/mainColor"
+			android:layout_height="match_parent" >
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="PROFILE"
+		android:gravity="center"
+		android:textSize="50sp"
+		android:textColor="@color/oval_copy_color"
+		android:textStyle="bold"
+		android:layout_marginTop="30dp"/>
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="80dp"
+		android:layout_marginStart="10dp"
+		android:layout_marginEnd="10dp"
+		android:background="@drawable/mask_ek7_shape"
+		android:orientation="vertical">
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/bg_shape"
+			android:layout_margin="20dp"
+			android:padding="16dp"
+			android:orientation="vertical">
+			<ImageView
+                android:layout_width="98dp"
+				android:layout_height="86dp"
+			android:layout_gravity="end"
+				android:contentDescription="_35_edit_outline_1"
+				android:src="@drawable/_35_edit_outline_1" />
+		<TextView
+			android:textStyle="bold"
+			android:textSize="20sp"
+			android:textColor="@color/black"
+			android:layout_width="match_parent"
+			android:layout_marginTop="10dp"
+			android:layout_height="wrap_content"
+			android:text="@string/name__ali_string"
+			/>
+
+		<EditText
+			android:id="@+id/etProfileName"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp"
+			android:backgroundTint="@color/Transparent"
+			android:hint="@string/names"
+			android:minHeight="48dp" />
+			<TextView
+                android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dp"
+				android:text="@string/email__turki66_gmail_com_string"
+				android:textColor="@color/black"
+				android:textSize="20sp"
+				android:textStyle="bold" />
+			<TextView
+				android:id="@+id/tvProfileEmail"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:textSize="20sp"
+				android:layout_marginTop="10dp"
+				android:backgroundTint="@color/Transparent"
+				android:hint="@string/names" />
+			<TextView
+				android:textStyle="bold"
+				android:textSize="20sp"
+				android:textColor="@color/black"
+				android:layout_width="match_parent"
+				android:layout_marginTop="10dp"
+				android:layout_height="wrap_content"
+				android:text="@string/phone__053744323_string"
+				/>
+
+			<EditText
+				android:id="@+id/etProfilePhone"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dp"
+				android:backgroundTint="@color/Transparent"
+				android:hint="@string/names"
+				android:minHeight="48dp" />
+
+		</LinearLayout>
+	</LinearLayout>
+
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:orientation="horizontal"
+		android:layout_marginTop="20dp"
+		android:gravity="center"
+		android:layout_height="wrap_content">
+		<Button
+			android:id="@+id/btnSignOut"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textColor="@color/white"
+			android:layout_margin="20dp"
+			android:background="@drawable/mask_ek8_shape"
+			android:text="@string/sign_out"/>
+		<Button
+			android:id="@+id/btnProfileSave"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textColor="@color/white"
+			android:layout_margin="20dp"
+			android:background="@drawable/mask_ek8_shape"
+			android:text="@string/save"/>
+
+	</LinearLayout>
+
+		</LinearLayout>

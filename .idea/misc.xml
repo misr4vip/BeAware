@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.20185185185185187" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__activity_admin_management__ek2_shape.xml" value="0.168" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__activity_after_checking1_ek2_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__activity_after_checking2_ek2_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__activity_after_checking3_ek2_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__activity_after_checking_ek5_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__activity_welcome__ek2_shape.xml" value="0.224" />
+        <entry key="app/src/main/res/drawable-nodpi/_ellipse_1_ek1_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_ellipse_1_ek2_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_ellipse_1_ek3_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_ellipse_1_ek5_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_ellipse_1_ek6_shape.xml" value="0.224" />
+        <entry key="app/src/main/res/drawable-nodpi/_ellipse_1_ek7_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_ellipse_1_ek8_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/_ellipse_1_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/_rectangle_copy_ek1_shape.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable-nodpi/_rectangle_copy_ek3_shape.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable-nodpi/buttonbackground.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/ellipse_21_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/ellipse_23_shape.xml" value="0.224" />
+        <entry key="app/src/main/res/drawable-nodpi/ellipse_2_ek10_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/ellipse_2_ek11_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/ellipse_2_ek12_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/line_13_shape.xml" value="0.142" />
+        <entry key="app/src/main/res/drawable-nodpi/mask.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_ek10_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_ek1_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_ek2_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_ek3_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_ek4_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_ek5_shape.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_ek6_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_ek7_shape.xml" value="0.121" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_ek8_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/mask_shape.xml" value="0.167" />
+        <entry key="app/src/main/res/drawable-nodpi/rec_ek18_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/rec_ek19_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/rec_white_shape_with_corner.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable-nodpi/rectangle_335_ek2_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/rectangle_ek3_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-nodpi/rectangle_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/edittextbackground.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/ic_false_foreground.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/ic_password_foreground.xml" value="0.1965" />
+        <entry key="app/src/main/res/drawable/ic_true_foreground.xml" value="0.174" />
+        <entry key="app/src/main/res/layout/activity_UploadCv.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_activateSecurity.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_activate_security.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_admin_home.xml" value="0.24928283691406247" />
+        <entry key="app/src/main/res/layout/activity_admin_management_.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_after_checking.xml" value="0.2633987426757813" />
+        <entry key="app/src/main/res/layout/activity_after_checking1.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_after_checking2.xml" value="0.2130447387695313" />
+        <entry key="app/src/main/res/layout/activity_after_checking3.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_after_checking4.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_after_checking5.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_change_email.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_change_password.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_email_confirmation.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_error_message2.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_error_message_.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_message.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/activity_notification.xml" value="0.2512218963831867" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_scan_Qr.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_scan_barcode.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_scan_face.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_scan_face2.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_scan_qr.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_sing_in_1.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_sing_up.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_uploadcv.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_welcome_.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/admin_security_cell.xml" value="0.33077239990234375" />
+        <entry key="app/src/main/res/layout/circlebackground.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/frame4.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/frame5.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/notifiction_cell.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/qrlayout.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/relod.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_password.xml" value="0.111" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_security_round.xml" value="0.1645" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+				android:background="@drawable/_bg__activity_settings_ek2_shape"
+				android:layout_width="match_parent"
+				android:orientation="vertical"
+				android:layout_height="match_parent"
+	tools:context="com.example.beaware.settings_activity">
+
+		<TextView
+            android:textSize="40sp"
+			android:textColor="@color/black"
+			android:layout_marginStart="15dp"
+			android:layout_marginTop="80dp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textStyle="bold"
+			android:text="@string/settings_string"
+			 />
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		android:weightSum="10"
+		android:layout_marginTop="80dp"
+		>
+			<LinearLayout
+				android:layout_width="0dp"
+				android:layout_weight="5"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:layout_margin="5dp"
+				android:paddingTop = "30dp"
+				android:paddingBottom="30dp"
+				android:id="@+id/llProfile"
+				android:background="@drawable/_rectangle_copy_shape">
+
+					<ImageView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:src="@mipmap/ic_profile"/>
+
+					<TextView
+						android:textSize="30sp"
+						android:gravity="center|center_vertical"
+						android:textColor="@color/setting_color"
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						android:text="@string/skills_ek1_string"
+						/>
+
+			</LinearLayout>
+			<LinearLayout
+				android:layout_width="0dp"
+				android:layout_weight="5"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:layout_margin="5dp"
+				android:id="@+id/llPassword"
+				android:paddingTop = "30dp"
+				android:paddingBottom="30dp"
+				android:background="@drawable/_rectangle_copy_shape">
+
+				<ImageView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:src="@mipmap/ic_password"/>
+
+				<TextView
+					android:textSize="24sp"
+					android:gravity="center|center_vertical"
+					android:textColor="@color/setting_color"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:text="@string/skills_ek3_string"
+					/>
+
+			</LinearLayout>
+	</LinearLayout>
+</LinearLayout>
+
+

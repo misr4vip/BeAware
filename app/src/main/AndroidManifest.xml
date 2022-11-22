@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="exportkit.xd" >
+
+	<uses-permission android:name="android.permission.CAMERA"/>
+	<uses-permission android:name="android.permission.RECORD_AUDIO"/>
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<uses-feature
+		android:name="android.hardware.camera"
+		android:required="true"/>
+
+
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity android:exported="false"   android:name="com.example.beaware.message_activity"/>
+        <activity android:exported="false"  android:name="com.example.beaware.notification_activity"/>
+			 <activity android:exported="false"  android:name="com.example.beaware.settings_activity"/>
+		<activity android:exported="false"  android:name="com.example.beaware.signIn_activity"/>
+			 <activity android:exported="false"  android:name="com.example.beaware.signUp_activity"/>
+			 <activity android:exported="false"  android:name="com.example.beaware.admin_home_activity"/>
+			 <activity android:exported="true"  android:name="com.example.beaware.intro_activity">
+				 <intent-filter>
+					 <action android:name="android.intent.action.MAIN" />
+					 <category android:name="android.intent.category.LAUNCHER" />
+				 </intent-filter>
+			 </activity>
+			 <activity android:exported="false"  android:name="com.example.beaware.activateSecurity_Activity"/>
+		<activity android:exported="false" android:label="Face Mask Detector"  android:name="com.example.beaware.scan_face_activity"/>
+
+		<activity android:exported="false" android:label="Scan tawkalna Qr Code" android:name="com.example.beaware.scan_QR_activity"/>
+			 <activity android:exported="false"  android:name="com.example.beaware.welcome_activity"/>
+        <activity android:exported="false"  android:name="com.example.beaware.change_password_activity"/>
+			 <activity android:exported="false"  android:name="com.example.beaware.confirmation_email_activity"/>
+			 <activity android:exported="false"  android:name="com.example.beaware.profile_activity"/>
+		<activity
+			android:exported="false"
+			android:name="com.example.beaware.UploadCv_activity" />
+	</application>
+
+</manifest>
+	
+	

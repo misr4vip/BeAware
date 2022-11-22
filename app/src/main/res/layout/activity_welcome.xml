@@ -1,0 +1,136 @@
+
+		<RelativeLayout
+			xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			tools:context="com.example.beaware.welcome_activity">
+
+			<RelativeLayout
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:background="@color/mainColor"
+				>
+
+
+				<TextView android:id="@+id/tvSecurity"
+
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="18sp"
+					android:textColor="@color/allowed_to_enter_ek1_color"
+					android:layout_marginLeft="12dp"
+					android:layout_marginTop="653dp"
+					android:layout_width="113dp"
+					android:layout_height="51dp"
+					android:text="@string/_security__string"
+					 />
+
+				<TextView
+					android:id="@+id/tvAdmin"
+
+					android:layout_width="115dp"
+					android:layout_height="51dp"
+					android:layout_gravity="center_horizontal|center"
+					android:layout_marginLeft="292dp"
+					android:layout_marginTop="653dp"
+					android:gravity="center"
+					android:text="@string/_admin__string"
+					android:textColor="@color/allowed_to_enter_ek1_color"
+					android:textSize="18sp" />
+
+
+				<RelativeLayout
+                    android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="75dp"
+					android:layout_marginTop="380dp"
+					android:padding="10dp">
+
+					<View
+
+						android:layout_width="210dp"
+						android:layout_height="210dp"
+						android:layout_marginStart="10dp"
+						android:layout_marginTop="15dp"
+						android:alpha="0.3"
+						android:background="@drawable/ellipse_23_shape" />
+
+					<View
+                        android:layout_width="170dp"
+						android:layout_height="170dp"
+						android:layout_marginStart="30dp"
+						android:layout_marginTop="35dp"
+						android:alpha="1"
+						android:background="@drawable/ellipse_23_shape" />
+
+					<View
+                        android:layout_width="140dp"
+						android:layout_height="140dp"
+						android:layout_marginStart="45dp"
+						android:layout_marginTop="50dp"
+						android:background="@drawable/buttonbackground" />
+
+					<TextView
+						android:id="@+id/tvVistor"
+
+						android:layout_width="157dp"
+						android:layout_height="59dp"
+						android:layout_gravity="center_horizontal|center"
+						android:layout_marginLeft="35dp"
+						android:layout_marginTop="90dp"
+						android:gravity="center"
+
+						android:text="@string/vistor_string"
+						android:textColor="@color/setting_color"
+						android:textSize="30sp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+                    android:layout_marginTop="0dp"
+
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View
+                        android:layout_width="match_parent"
+						android:layout_height="304dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/mask" />
+
+				</RelativeLayout>
+
+				<ImageView
+                    android:src="@drawable/photo_2021_11_12_00_03_23_3_1"
+					android:contentDescription="photo_2021_11_12_00_03_23_3_1"
+					 android:layout_marginStart="29dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="314dp" />
+
+				<TextView
+
+                    android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="18sp"
+					android:textColor="@color/_bg__activity_sing_in_1_ek2_color"
+					android:layout_marginLeft="52dp"
+					android:layout_marginTop="229dp"
+					android:layout_width="313dp"
+					android:layout_height="66dp"
+					android:text="@string/you_should_be_aware_to_be_stay_safe__string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+
+
+		</RelativeLayout>
+

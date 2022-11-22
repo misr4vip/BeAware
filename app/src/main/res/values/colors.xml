@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- be colors -->
+
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="mainColor">#FEF5ED</color>
+	<color name="_bg__activity_error_message__ek2_color">#FEF5ED</color>
+	<color name="sorry_you_can_not_enter_for_your_violating_by_not_wearing_mask_or_complete_your_vaccinations_color">#000000</color>
+	<color name="buttonBackgroundColor">#BCA789</color>
+    <color name="oval_copy_color">#ADC2A9</color>
+    <color name="_bg__activity_notification_ek2_color">#EEE9E1</color>
+    <color name="allowed_to_enter_color">#568859</color>
+	<color name="setting_color">#FFFFFF</color>
+	<color name="white">#FFFFFF</color>
+	<color name="warning_color">#A66742</color>
+	<color name="allowed_to_enter_ek1_color">#3E5240</color>
+	<color name="_rectangle_copy_color">#99A799</color>
+    <color name="_bg__activity_sing_in_1_ek2_color">#EBE5D9</color>
+	<color name="turki66_gmail_com_color">#484E68</color>
+	<color name="turki_color">#272E4B</color>
+    <color name="view_security_page_color">#171D33</color>
+    <color name="rectangle_ek7_color">#F7F8F9</color>
+	<color name="black">#000</color>
+	<color name="Transparent">#00000000</color>
+</resources>

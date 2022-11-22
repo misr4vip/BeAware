@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- be strings -->
+
+	<string name="app_name">Be Aware</string>
+    <string name="sorry_you_can_not_enter">Sorry you can not enter for your violating by not wearing mask or complete your vaccinations</string>
+	<string name="exit_string">Exit</string>
+    <string name="you_can_enter">You can enter Thank you for your awareness</string>
+    <string name="someone_adhered_to_the_full_procedures_string">someone adhered to the full procedures</string>
+	<string name="allowed_to_enter_string">Allowed to enter</string>
+    <string name="someone_didn_t_committed_with_the_procedures_tried_to_enter_string">Someone didnt committed with the procedures tried to enter</string>
+	<string name="warning_string">WARNING</string>
+    <string name="_3_01_pm_string">3:01 PM</string>
+	<string name="notification_center_string">Notification Center</string>
+    <string name="settings_string">Settings</string>
+    <string name="skills_ek1_string">Profile</string>
+    <string name="skills_ek3_string">Password</string>
+    <string name="password_ek1_string">Password</string>
+	<string name="username_ek1_string">username</string>
+	<string name="login_ek1_string">Login</string>
+	<string name="sign_in_ek1_string">Sign in</string>
+	<string name="email_ek1_string">Email</string>
+    <string name="password_ek2_string">Password</string>
+	<string name="phone_number_string">Phone number</string>
+	<string name="sing_up_string">Sing up</string>
+	<string name="sign_up_string">Sign up</string>
+	<string name="sign_out">Sign out</string>
+	<string name="save">Save</string>
+	<string name="_already_have_an_acco_ek1_string">Have account?</string>
+    <string name="view_security_page_string">View security page</string>
+    <string name="turki_ek1_string">Turki</string>
+    <string name="delete_ek1_string">Delete</string>
+    <string name="_security__string">Security?</string>
+	<string name="_admin__string">Admin?</string>
+	<string name="vistor_string">Vistor</string>
+	<string name="you_should_be_aware_to_be_stay_safe__string">you should be aware to be stay safe</string>
+    <string name="email_a_confirmation_code_to_the_your_email_string">Email a confirmation code to the your Email</string>
+	<string name="confirmation_string">Confirmation</string>
+	<string name="not_active_account_string">not Active Account</string>
+	<string name="phone__053744323_string">Phone:</string>
+	<string name="name__ali_string">Name:</string>
+	<string name="email__turki66_gmail_com_string">Email:</string>
+    <string name="send_ek1_string">Send</string>
+	<string name="attach_a_copy_of_the_cv_string">Attach a copy of the CV</string>
+	<string name="pending">your Cv Is Under Revision Wait....</string>
+    <string name="names">turki</string>
+</resources>

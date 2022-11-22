@@ -1,0 +1,67 @@
+
+		<LinearLayout
+			xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:background="@color/_bg__activity_notification_ek2_color"
+			android:orientation="vertical"
+			android:weightSum="10"
+			tools:context="com.example.beaware.activateSecurity_Activity">
+
+			<ImageView
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_weight="3"
+				android:layout_marginTop="30dp"
+				android:src="@mipmap/ic_security_round"/>
+
+			<TextView
+				android:id="@+id/tvActiveName"
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_weight="1"
+				android:gravity="center"
+				android:layout_marginTop="20dp"
+				android:text="@string/turki_ek1_string"
+				android:textColor="@color/turki_color"
+				android:textSize="22sp" />
+			<TextView
+				android:id="@+id/tvActivePhone"
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_weight="1"
+				android:gravity="center"
+				android:text="@string/turki_ek1_string"
+				android:textColor="@color/turki_color"
+				android:textSize="22sp" />
+			<TextView
+				android:id="@+id/tvActiveEmail"
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_weight="1"
+				android:gravity="center"
+
+				android:text="@string/turki_ek1_string"
+				android:textColor="@color/turki_color"
+				android:textSize="22sp" />
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:gravity="center"
+				android:orientation="horizontal"
+				android:layout_weight="2">
+				<Button
+					android:id="@+id/btnDownloadCv"
+					android:layout_margin="10dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Download cv"/>
+				<Button
+					android:id="@+id/btnActivate"
+					android:layout_margin="10dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Activate"/>
+			</LinearLayout>
+
+		</LinearLayout>

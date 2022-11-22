@@ -1,0 +1,114 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:background="@color/mainColor"
+			android:orientation="vertical"
+	tools:context="com.example.beaware.admin_home_activity">
+
+	<TextView
+        android:layout_width="265dp"
+		android:layout_height="57dp"
+		android:layout_marginLeft="16dp"
+		android:layout_marginTop="19dp"
+		android:text="@string/view_security_page_string"
+		android:textColor="@color/view_security_page_color"
+		android:textSize="24sp" />
+
+	<ListView
+		android:id="@+id/lvSecurityUsers"
+		android:layout_width="match_parent"
+		android:layout_height="477dp"
+		android:layout_marginStart="20dp"
+		android:padding="10dp"
+		android:layout_centerInParent="true"
+		android:background="@drawable/rectangle_ek4_shape" />
+
+<!--	<RelativeLayout-->
+<!--			android:id="@+id/background"-->
+<!--			android:layout_width="wrap_content"-->
+<!--			android:layout_height="wrap_content"-->
+<!--			android:layout_alignParentBottom="true"-->
+<!--			android:background="@drawable/subtract">-->
+
+<!--			<RelativeLayout-->
+<!--				android:id="@+id/notification"-->
+<!--				android:layout_width="wrap_content"-->
+<!--				android:layout_height="wrap_content"-->
+<!--				android:layout_marginStart="47dp"-->
+<!--				android:layout_marginTop="30dp">-->
+
+<!--				<ImageView-->
+<!--					android:id="@+id/vector_ek6"-->
+<!--					android:layout_width="10.16dp"-->
+<!--					android:layout_height="3.33dp"-->
+<!--					android:layout_marginStart="14.28dp"-->
+<!--					android:layout_marginTop="36.67dp"-->
+<!--					android:contentDescription="vector_ek6"-->
+<!--					android:src="@drawable/vector_ek6" />-->
+
+<!--				<ImageView-->
+<!--					android:id="@+id/vector_ek7"-->
+<!--					android:layout_width="32.26dp"-->
+<!--					android:layout_height="35dp"-->
+<!--					android:layout_marginStart="3.23dp"-->
+<!--					android:layout_marginTop="0dp"-->
+<!--					android:contentDescription="vector_ek7"-->
+<!--					android:src="@drawable/vector_ek7" />-->
+
+<!--			</RelativeLayout>-->
+
+<!--			<RelativeLayout-->
+<!--				android:id="@+id/send_circle"-->
+<!--				android:layout_width="wrap_content"-->
+<!--				android:layout_height="wrap_content"-->
+<!--				android:layout_marginStart="168dp"-->
+<!--				android:layout_marginTop="-20dp">-->
+
+<!--				<View-->
+<!--					android:id="@+id/ellipse_ek5"-->
+<!--					android:layout_width="75.13dp"-->
+<!--					android:layout_height="78.16dp"-->
+<!--					android:background="@drawable/ellipse_ek5_shape" />-->
+
+
+<!--				<RelativeLayout-->
+<!--					android:id="@+id/shield"-->
+<!--					android:layout_width="wrap_content"-->
+<!--					android:layout_height="wrap_content"-->
+<!--					android:layout_marginStart="16dp"-->
+<!--					android:layout_marginTop="20dp">-->
+
+<!--					<ImageView-->
+<!--						android:id="@+id/vector_ek8"-->
+<!--						android:layout_width="35.35dp"-->
+<!--						android:layout_height="40dp"-->
+<!--						android:layout_marginStart="3dp"-->
+<!--						android:layout_marginTop="0dp"-->
+<!--						android:contentDescription="vector_ek8"-->
+<!--						android:src="@drawable/vector_ek8" />-->
+
+<!--				</RelativeLayout>-->
+
+<!--			</RelativeLayout>-->
+
+<!--			<RelativeLayout-->
+<!--				android:id="@+id/user"-->
+<!--				android:layout_width="wrap_content"-->
+<!--				android:layout_height="wrap_content"-->
+<!--				android:layout_marginStart="329dp"-->
+<!--				android:layout_marginTop="30dp">-->
+
+<!--				<ImageView-->
+<!--					android:id="@+id/vector_ek9"-->
+<!--					android:layout_width="32.2dp"-->
+<!--					android:layout_height="41.14dp"-->
+<!--					android:layout_marginStart="4.9dp"-->
+<!--					android:layout_marginTop="0dp"-->
+<!--					android:contentDescription="vector_ek9"-->
+<!--					android:src="@drawable/vector_ek9" />-->
+
+<!--			</RelativeLayout>-->
+
+<!--		</RelativeLayout>-->
+
+</RelativeLayout>
